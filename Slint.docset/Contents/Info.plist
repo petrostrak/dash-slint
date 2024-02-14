@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>Slint</string>
+	<key>CFBundleName</key>
+	<string>Slint</string>
+	<key>DocSetPlatformFamily</key>
+	<string>Slint</string>
+	<key>isDashDocset</key><true/>
+	<key>isJavaScriptEnabled</key><true/>
+	<key>DashDocSetPlayURL</key>
+	<string>https://slint.dev/releases/1.4.1/editor/</string>
+</dict>
+</plist>

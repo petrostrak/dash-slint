@@ -1,0 +1,1 @@
+tar --exclude='.DS_Store' -cvzf Slint.tgz Slint.docset
